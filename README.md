@@ -1,4 +1,4 @@
-#node-red-contrib-binarybuffer-utf8
+node-red-contrib-binarybuffer-utf8
 ========================
 
 Install

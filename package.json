@@ -1,0 +1,13 @@
+{
+    "name"         : "node-red-contrib-binarybuffer-utf8",
+    "version"      : "0.0.3",
+    "description"  : "A node which encode a utf16-le into utf8 string",
+    "dependencies": {
+    },
+    "keywords": [ "node-red","utf16-le","utf8"],
+    "node-red"     : {
+        "nodes": {
+            "utf16": "encode-utf16le.js"
+        }
+    }
+}
